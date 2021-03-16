@@ -13,9 +13,10 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma(string)
+def speak_to_grandma(phrase)
   
-  
+  if !phrase.upcase
+    puts "HUH?! SPEAK UP, SONNY!"
   
   
   
