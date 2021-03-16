@@ -22,6 +22,8 @@ def speak_to_grandma(phrase)
     return "NO, NOT SINCE 1938!"
   elsif phrase == love 
     return "I LOVE YOU TOO PUMPKIN!"
+  else 
+    return "ok"
   end
   
 end 
